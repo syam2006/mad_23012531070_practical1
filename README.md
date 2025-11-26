@@ -4,12 +4,14 @@ Declares and initializes variables of types: Int, Double, Float, Long, Short, By
 
 Displays them using println().
    ![image alt](https://github.com/syam2006/mad_23012531070_practical1/blob/83740923adce75953076243426a1fd78100cb572/Screenshot%202025-11-26%20170924.png)
+   
 Concepts Covered: Variables, Data Types, Printing Output.
 
 1.2 Type Conversion
 
 Demonstrates type casting and conversion functions in Kotlin: Int → Double String → Int String → Double
   ![image alt](https://github.com/syam2006/mad_23012531070_practical1/blob/b2219db6458283726cc1c8755d10b914c5ba0737/Screenshot%202025-11-26%20181424.png)
+  
 
 Concepts Covered: Type Safety, Explicit Conversion (toInt(), toDouble()).
 
@@ -17,18 +19,22 @@ Concepts Covered: Type Safety, Explicit Conversion (toInt(), toDouble()).
 
 Reads student details (name, enrollment no, branch, etc.) using readLine(). Displays them back in formatted form.
    ![image alt](https://github.com/syam2006/mad_23012531070_practical1/blob/73f1a56b7f725095c7b1778eff1a28f37056d832/Screenshot%202025-11-26%20181913.png)
+   
 Concepts Covered: Input Handling, String Templates.
 
 1.4 Odd or Even Number Check Accepts a number and determines whether it is odd or even. Uses control flow inside println().
    ![image alt](https://github.com/syam2006/mad_23012531070_practical1/blob/9d01eb960ca64511ec54ebaeea1376cd724b9585/Screenshot%202025-11-26%20182307.png)
+   
 Concepts Covered: Conditional Expressions, Inline Checks.
 
 1.5 Display Month Name (when Expression) Accepts a number (1–12) from the user. Prints the corresponding month name using the when expression.
    ![image alt](https://github.com/syam2006/mad_23012531070_practical1/blob/09859521ff8238097cdb07f16e0297ca405eea44/Screenshot%202025-11-26%20182639.png)
+   
 Concepts Covered: when Expression, Branching.
 
 1.6 User-Defined Function (Arithmetic Operations) Creates a function that performs: Addition Subtraction Multiplication Division Calls and displays results.
    ![image alt]()
+   
 Concepts Covered: Functions, Parameters, Return Values.
 
 1.7 Factorial with Recursion Defines a recursive function to compute the factorial of a given number.
