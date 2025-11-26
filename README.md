@@ -44,19 +44,16 @@ Concepts Covered: when Expression, Branching.
 Concepts Covered: Functions, Parameters, Return Values.
 
 1.7 Factorial with Recursion Defines a recursive function to compute the factorial of a given number.
-
-    ![image alt](https://github.com/syam2006/mad_23012531070_practical1/blob/858e2a3dfefc86f5573332a99df5867730a88982/Screenshot%202025-11-26%20183726.png)
+![image alt](https://github.com/syam2006/mad_23012531070_practical1/blob/858e2a3dfefc86f5573332a99df5867730a88982/Screenshot%202025-11-26%20183726.png)
     
 Concepts Covered: Recursion, Function Calls.
 
 1.8 Working with Arrays Demonstrates: Arrays.deepToString() contentDeepToString() IntArray.joinToString() Uses loop ranges (.., downTo, until) for traversal. Sorts an array: Without built-in functions (manual sorting). With built-in functions (sortedArray()).
-
       ![image alt]()
       
 Concepts Covered: Arrays, Loops, Sorting, Built-in Functions.
 
 1.9 Find Maximum Number from ArrayList Accepts an ArrayList. Finds the maximum element using iteration.
-
        ![image alt]()
        
 Concepts Covered: Collections, Iteration, Conditional Logic.
