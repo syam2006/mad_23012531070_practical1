@@ -16,7 +16,7 @@ Concepts Covered: Type Safety, Explicit Conversion (toInt(), toDouble()).
 1.3 Student Information Input/Output
 
 Reads student details (name, enrollment no, branch, etc.) using readLine(). Displays them back in formatted form.
-   ![image alt]()
+   ![image alt](https://github.com/syam2006/mad_23012531070_practical1/blob/73f1a56b7f725095c7b1778eff1a28f37056d832/Screenshot%202025-11-26%20181913.png)
 Concepts Covered: Input Handling, String Templates.
 
 1.4 Odd or Even Number Check Accepts a number and determines whether it is odd or even. Uses control flow inside println().
