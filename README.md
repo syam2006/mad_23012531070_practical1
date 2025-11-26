@@ -69,6 +69,9 @@ Concepts Covered: Classes, Primary & Secondary Constructors, Member Functions, E
 1.11 Operator Overloading & Matrix Operations Implements a Matrix class. Defines operator functions for: Addition (+) Subtraction (-) Multiplication (*) Overloads toString() for custom display of matrix contents.
 
 ![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
 
 Concepts Covered: Operator Overloading, Class Design, Object-Oriented Programming.
 
