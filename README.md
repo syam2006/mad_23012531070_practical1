@@ -45,7 +45,7 @@ Concepts Covered: Functions, Parameters, Return Values.
 
 1.7 Factorial with Recursion Defines a recursive function to compute the factorial of a given number.
 
-    ![image alt](https://github.com/syam2006/mad_23012531070_practical1/blob/56a748f4341cab790efb764e521d8055fa9b5dd8/Screenshot%202025-11-26%20183219.png)
+    ![image alt](https://github.com/syam2006/mad_23012531070_practical1/blob/59b73dd48395d6054259cc108c4d86ad8f886b82/Screenshot%202025-11-26%20183726.png)
     
 Concepts Covered: Recursion, Function Calls.
 
