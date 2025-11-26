@@ -50,7 +50,7 @@ Concepts Covered: Recursion, Function Calls.
 
 1.8 Working with Arrays Demonstrates: Arrays.deepToString() contentDeepToString() IntArray.joinToString() Uses loop ranges (.., downTo, until) for traversal. Sorts an array: Without built-in functions (manual sorting). With built-in functions (sortedArray()).
       ![image alt](https://github.com/syam2006/mad_23012531070_practical1/blob/c1486104ce99a35e6ff704a9a5d91c13f376aa63/Screenshot%202025-11-26%20184244.png)
-      ![image alt]()
+      ![image alt](https://github.com/syam2006/mad_23012531070_practical1/blob/d9b3bbac0e46b3540d1f061726ffe38e9591f931/Screenshot%202025-11-26%20184445.png)
 Concepts Covered: Arrays, Loops, Sorting, Built-in Functions.
 
 1.9 Find Maximum Number from ArrayList Accepts an ArrayList. Finds the maximum element using iteration.
