@@ -20,7 +20,7 @@ Reads student details (name, enrollment no, branch, etc.) using readLine(). Disp
 Concepts Covered: Input Handling, String Templates.
 
 1.4 Odd or Even Number Check Accepts a number and determines whether it is odd or even. Uses control flow inside println().
-   ![image alt]()
+   ![image alt](https://github.com/syam2006/mad_23012531070_practical1/blob/9d01eb960ca64511ec54ebaeea1376cd724b9585/Screenshot%202025-11-26%20182307.png)
 Concepts Covered: Conditional Expressions, Inline Checks.
 
 1.5 Display Month Name (when Expression) Accepts a number (1–12) from the user. Prints the corresponding month name using the when expression.
