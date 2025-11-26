@@ -61,7 +61,8 @@ Concepts Covered: Collections, Iteration, Conditional Logic.
 
 1.10 Class and Constructor Creation Defines a Car class with properties: type, model, price, owner, milesDriven Implements functions to: Get car information. Get original price and current price. Display details
 
-  ![image alt]()
+  ![image alt](https://github.com/syam2006/mad_23012531070_practical1/blob/8b4ead5c0fac34f03d85e7d20f33883a2a1f4c5e/Screenshot%202025-11-26%20184954.png)
+   ![image alt]()
   
 Concepts Covered: Classes, Primary & Secondary Constructors, Member Functions, Encapsulation.
 
