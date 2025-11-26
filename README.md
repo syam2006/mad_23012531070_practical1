@@ -24,7 +24,8 @@ Concepts Covered: Input Handling, String Templates.
 Concepts Covered: Conditional Expressions, Inline Checks.
 
 1.5 Display Month Name (when Expression) Accepts a number (1–12) from the user. Prints the corresponding month name using the when expression.
-   ![image alt]()
+   ![image alt](<img width="345" height="130" alt="image" src="https://github.com/user-attachments/assets/b6284889-fc7b-4f7d-bb9e-fe784a4e1db7" />
+)
 Concepts Covered: when Expression, Branching.
 
 1.6 User-Defined Function (Arithmetic Operations) Creates a function that performs: Addition Subtraction Multiplication Division Calls and displays results.
